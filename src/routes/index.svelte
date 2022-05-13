@@ -2,6 +2,7 @@
 
 <style>
 	img {
+		width: auto;
 		display: block;
 	}
 </style>
